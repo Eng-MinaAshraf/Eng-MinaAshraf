@@ -96,7 +96,6 @@ My skills in **Flutter**, **Angular**, and **UI/UX Design** allow me to envision
 | [**Superstore Dashboard**](https://github.com/Eng-MinaAshraf/Superstore-data-analysis) | Interactive BI dashboard with advanced DAX measures | Power BI · DAX · Excel |
 | [**Sales Performance System**](https://github.com/Eng-MinaAshraf/Sales-Performance-Analysis-System) | Automated reporting system with VBA-powered dashboard | Excel VBA · Automation |
 | [**Flutter UI Templates**](https://github.com/Eng-MinaAshraf/Best-Flutter-UI-Templates) | Collection of polished, production-ready Flutter UI kits | Flutter · Dart |
-| [**Windster Dashboard**](https://github.com/Eng-MinaAshraf/Tailwind-Dashboard-Windster) | Modern admin dashboard built with Tailwind CSS & Flowbite | Tailwind · Flowbite · Webpack |
 | [**Fashion E-commerce App**](https://github.com/Eng-MinaAshraf/Flutter-E-commerce-Fashion) | Full-featured e-commerce mobile app with cart and product UI | Flutter · Dart |
 | [**Tabibak Healthcare System**](https://github.com/Eng-MinaAshraf/Tabibak) | Full-stack healthcare management web system | HTML · CSS · JavaScript |
 
